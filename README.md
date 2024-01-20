@@ -4,10 +4,10 @@ This Python script provides a simple command-line interface for converting betwe
 
 ## Features
 
-- **Binary List to Text**: Convert a list of binary strings to ASCII text.
-- **Octal List to Text**: Convert a list of octal strings to ASCII text.
-- **Decimal List to Text**: Convert a list of decimal strings to ASCII text.
-- **Hexadecimal List to Text**: Convert a list of hexadecimal strings to ASCII text.
+- **Binary List to Text**: Convert a list of binary to ASCII text.
+- **Octal List to Text**: Convert a list of octal to ASCII text.
+- **Decimal List to Text**: Convert a list of decimal to ASCII text.
+- **Hexadecimal List to Text**: Convert a list of hexadecimal to ASCII text.
 
 ## Usage
 
@@ -33,10 +33,6 @@ Enter the list : 01100011 01101111 01101101 01110000 01110101 01110100 01100101 
 computer
 **********************************************
 ```
-
-## Manual
-
-Refer to the manual section for accepted input formats and examples.
 
 ## Contributions
 
